@@ -1,81 +1,85 @@
 Name,Level,HP,Strength,Magic,Defense,Speed,EXP,GP
-Adamant Turtle,,,,,,,,
-Awizzard,,,,,,,,
-Basilisk,,,,,,,,
-Beholder,,,,,,,,
-Brownie,,,,,,,,
-Centaur,,,,,,,,
-Cerberus,,,,,,,,
-Chimera,,,,,,,,
-Desert Hag,,,,,,,,
-Edgehog,,,,,,,,
-Fangpire,,,,,,,,
-Flazzard,,,,,,,,
-Freezer,,,,,,,,
-Gargoyle,,,,,,,,
-Garuda,,,,,,,,
-Gather,,,,,,,,
-Ghost,,,,,,,,
-Giant Toad,,,,,,,,
-Gorgon,,,,,,,,
-Hot Wings,,,,,,,,
-Iflyte,,,,,,,,
-Jelly,,,,,,,,
-Lamia,,,,,,,,
-Land Turtle,,,,,,,,
-Land Worm,,,,,,,,
-Leech,,,,,,,,
-Live Oak,,,,,,,,
-Mad Plant,,,,,,,,
-Mad Toad,,,,,,,,
-Mage ,,,,,,,,
-Manticor,,,,,,,,
-Minotaur Zombie,,,,,,,,
-Mint Mint,,,,,,,,
-Mummy,,,,,,,,
-Naga ,,,,,,,,
-Nitemare,,,,,,,,
-Ninja,,,,,,,,
-Ooze,,,,,,,,
-Phanquid,,,,,,,,
-Plant Man,,,,,,,,
-Poison Toad,,,,,,,,
-Red Bone,,,,,,,,
-Red Cap,,,,,,,,
-Roc,,,,,,,,
-Salamand,,,,,,,,
-Sand Worm,,,,,,,,
-Scorpion,,,,,,,,
-Shadow,,,,,,,,
-Skeleton,,,,,,,,
-Skuldier,,,,,,,,
-Slime,,,,,,,,
-Snipion,,,,,,,,
-Sorcerer,,,,,,,,
-Sparna,,,,,,,,
-Specter,,,,,,,,
-Sphinx,,,,,,,,
-Stheno,,,,,,,,
-Sting Rat,,,,,,,,
-Stoney Roost,,,,,,,,
-Thanatos,,,,,,,,
-Vampire,,,,,,,,
-Water Hag,,,,,,,,
-Were Wolf,,,,,,,,
-Behemoth,,,,,,,,
-Dark King,,,,,,,,
-Dualhead Hydra,,,,,,,,
-Dullahan,,,,,,,,
-Flamerus Rex,,,,,,,,
-Gidrah,,,,,,,,
-Ice Golem,,,,,,,,
-Jinn,,,,,,,,
-Medusa,,,,,,,,
-Minotaur ,,,,,,,,
-Pazuzu,,,,,,,,
-Skullrus Rex,,,,,,,,
-Snow Crab,,,,,,,,
-Squidite,,,,,,,,
-Stone Golem,,,,,,,,
-Twinhead Wyvern,,,,,,,,
-Zuh,,,,,,,,
+Adamant Turtle,21,630,47,40,70,44,420,15
+Awizzard,20,666,49,38,52,52,420,15
+Basilisk,3,93,8,5,6,6,81,3
+Beholder,27,810,61,57,63,60,576,18
+Brownie,1,50,3,1,1,3,66,3
+Centaur,8,230,17,14,18,22,123,6
+Cerberus,30,935,70,64,71,72,675,21
+Chimera,29,870,65,58,66,69,684,21
+Desert Hag,10,280,23,16,24,20,168,6
+Edgehog,7,220,17,10,21,19,135,3
+Fangpire,20,600,46,40,44,48,381,15
+Flazzard,15,450,34,31,34,34,261,9
+Freezer Crab,13,410,31,28,40,32,237,9
+Gargoyle,29,888,66,58,73,70,669,21
+Garuda,27,825,61,52,61,69,588,18
+Gather,12,360,24,26,27,25,192,9
+Ghost,17,550,39,38,37,40,330,12
+Giant Toad,6,180,14,14,14,15,114,3
+Gorgon,5,150,11,8,11,12,114,3
+Hot Wings,19,450,43,40,42,48,261,9
+Iflyte,21,660,50,45,49,50,420,12
+Jelly,14,420,31,25,30,28,243,9
+Lamia,10,300,21,20,18,18,150,6
+Land Turtle,9,270,20,16,32,16,144,6
+Land Worm,8,265,18,13,16,4,144,6
+Leech,24,745,54,45,56,52,504,18
+Live Oak,21,710,52,44,53,51,447,15
+Mad Plant,2,60,4,2,3,3,57,3
+Mad Toad,24,740,55,48,56,57,480,18
+Mage ,11,330,21,25,10,21,186,6
+Manticor,28,840,63,55,70,68,612,21
+Minotaur Zombie,5,240,13,10,13,13,120,30
+Mint Mint,6,160,12,9,11,12,117,3
+Mummy,22,685,51,46,56,53,459,15
+Naga ,29,870,65,60,65,67,627,21
+Nitemare,18,535,40,35,43,46,330,12
+Ninja,19,585,44,36,44,49,372,12
+Ooze,25,750,57,49,58,59,540,18
+Phanquid,13,400,30,24,27,29,231,9
+Plant Man,15,460,34,30,33,34,258,9
+Poison Toad,2,70,5,4,4,3,63,3
+Red Bone,17,510,39,34,40,38,315,12
+Red Cap,16,480,36,32,36,38,294,12
+Roc,3,100,7,6,5,9,93,3
+Salamand,21,640,50,46,48,49,411,15
+Sand Worm,4,140,9,6,8,3,99,3
+Scorpion,7,210,16,16,16,18,129,3
+Shadow,30,925,70,56,67,78,675,21
+Skeleton,4,120,9,6,10,8,93,3
+Skuldier,25,750,57,50,61,57,513,18
+Slime,1,55,3,1,2,3,72,3
+Snipion,23,690,51,52,55,56,459,18
+Sorcerer,28,840,59,65,56,70,627,21
+Sparna,9,260,19,18,17,26,153,6
+Specter,22,690,49,46,47,52,453,15
+Sphinx,12,360,27,22,32,30,201,9
+Stheno,21,630,47,43,48,51,432,15
+Sting Rat,14,420,33,28,40,36,252,9
+Stoney Roost,11,350,25,24,23,24,165,6
+Thanatos,29,900,67,57,68,68,654,21
+Vampire,26,780,59,54,57,62,561,18
+Water Hag,26,765,57,45,60,60,576,18
+Were Wolf,18,555,41,38,45,44,354,12
+Zombie,16,500,35,29,38,35,324,12
+Behemoth,1,80,1,1,25,12,84,3
+Dark King (1st Form),40,40000,50,75,120,86,0,0
+Dark King (2nd Form),40,40000,50,75,120,86,0,0
+Dark King (3rd Form),40,40000,50,75,120,86,0,0
+Dark King (4th Form),40,40000,50,75,120,86,0,0
+Dualhead Hydra,27,14000,125,115,145,60,429,0
+Dullahan,28,14000,160,83,85,72,750,21
+Flamerus Rex,10,2200,70,28,60,32,120,0
+Gidrah,27,13000,130,80,75,78,729,18
+Ice Golem,16,6500,80,48,48,41,246,0
+Jinn,20,6000,115,115,58,52,504,15
+Medusa,20,6500,100,68,56,62,510,0
+Minotaur ,3,240,4,8,50,12,102,30
+Pazuzu,35,25000,100,93,95,78,618,0
+Skullrus Rex,32,10000,10,96,180,98,759,0
+Snow Crab,11,3000,100,32,50,34,234,6
+Squidite,11,2500,50,31,50,30,219,6
+Stone Golem,32,10000,5,98,98,99,762,0
+Twinhead Wyvern,34,15000,235,250,90,108,600,0
+Zuh,36,20000,240,98,95,100,750,0

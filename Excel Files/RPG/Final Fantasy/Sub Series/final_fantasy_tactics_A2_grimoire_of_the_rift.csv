@@ -1,102 +1,86 @@
 Name,Move,Jump,Evasion,Resilience
-Ahriman,,,,
-Plague,,,,
-Evil Eye,,,,
-Antlion,,,,
-Blue Antlion,,,,
-Green Antlion,,,,
-Pit Beast,,,,
-White Antlion,,,,
-Baknamy,,,,
-Luchorpan,,,,
-Pavilsag,,,,
-Behemoth,,,,
-Dark Behemoth,,,,
-Lightland Warder,,,,
-Reaver,,,,
-Bomb,,,,
-Grenade,,,,
-Black Chocobo,,,,
-Brown Chocobo,,,,
-Chocobo,,,,
-Green Chocobo,,,,
-Red Chocobo,,,,
-White Chocobo,,,,
-Axeebreak,,,,
-Blackwind,,,,
-Cluckatrice,,,,
-Cockatrice,,,,
-Cerayn,,,,
-Crushatrice,,,,
-Mamatrice,,,,
-Deathscythe,,,,
-Oversoul,,,,
-Demon Wall,,,,
-Asp,,,,
-Fire Drake,,,,
-Flaresky Warder,,,,
-Gaiasea Warder,,,,
-Ice Drake,,,,
-Ivory Wyrm,,,,
-Jormungard,,,,
-Nagaraja,,,,
-Nidhogg,,,,
-Opion,,,,
-Thunder Drake,,,,
-Tiamat,,,,
-Varigarmanda,,,,
-Zahak,,,,
-Dreamhare,,,,
-Fury,,,,
-Hoppy Bunny,,,,
-Mooglebane,,,,
-Ice Flan,,,,
-Orthros,,,,
-Red Marshmallow,,,,
-White Pudding,,,,
-Yellow Jelly,,,,
-Bloody Orb,,,,
-Floating Eye,,,,
-Ghost,,,,
-Wraith,,,,
-Golem,,,,
-Headless,,,,
-Wendigo,,,,
-Lamashtu,,,,
-Lamia,,,,
-Lilith,,,,
-Magick Pot,,,,
-Cassie,,,,
-Great Malboro,,,,
-Kukunoch,,,,
-Malboro,,,,
-Malboro King,,,,
-Nemeshis,,,,
-Mimic,,,,
-Neukhia Core,,,,
-Neukhia Pod,,,,
-Neukhia Wisp,,,,
-Floraxion,,,,
-Rafflesia,,,,
-Adamantitan,,,,
-Great Tortoise,,,,
-Rocktitan,,,,
-Toughskin,,,,
-Banshee,,,,
-Sprite,,,,
-Alraune,,,,
-Deadly Nightshade,,,,
-Tonberry ,,,,
-Tonberry King,,,,
-Magick Weapon,,,,
-Upsilon,,,,
-Humbaba,,,,
-Loup-garou,,,,
-Werewolf,,,,
-Zaghnal,,,,
-Hellhound,,,,
-Wolf,,,,
-Worgen,,,,
-Yowie,,,,
-Ghoul,,,,
-Zombie,,,,
+Ahriman,4,1,0,60
+Plague,4,1,0,60
+Evil Eye,4,1,0,60
+Antlion,3,2,0,35
+Pit Beast,3,2,0,35
+Baknamy,3,2,0,40
+Luchorpan,3,2,0,40
+Pavilsag,3,2,0,40
+Behemoth,4,2,0,40
+Dark Behemoth,4,2,0,50
+Lightland Warder,4,2,0,0
+Reaver,4,2,?,?
+Bomb,3,2,0,40
+Grenade,3,2*,0,40
+Black Chocobo,4,3,5,50
+Brown Chocobo,4,3,5,55
+Chocobo,4,1*,5,55
+Green Chocobo,6,3,5,60
+Red Chocobo,4,3,5,60
+White Chocobo,5,3,5,60
+Axebreak,4,2,0,40
+Blackwind,4,2,0,40
+Cluckatrice,3,2,0,40
+Cockatrice,3,2,0,40
+Cerayn,0,0,0,65
+Crushatrice,0,0,0,65
+Mamatrice,0,0,0,65
+Deathscythe,4,1,10,65
+Oversoul,4,1,15,65
+Demon Wall,1,1,0,65
+Asp,4,2,0,60
+Fire Drake,3,2,0,40
+Ice Drake,3,2,0,40
+Nagaraja,4,2,0,60
+Nidhogg,4,2,0,60
+Thunder Drake,3,2,0,40
+Tiamat,4,2,0,60
+Varigarmanda,3,2,0,40
+Zahak,4,2,0,60
+Dreamhare,4,3,10,65
+Fury,4,3,10,65
+Hoppy Bunny,4,3,10,70
+Mooglebane,4,3,10,65
+Ice Flan,3,2,0,60
+Red Marshmallow,3,2,0,60
+White Pudding,3,2,0,60
+Yellow Jelly,3,2,0,60
+Bloody Orb,5,1,10,50
+Floating Eye,5,1,10,50
+Ghost,3,1,5,60
+Wraith,4,1,10,60
+Golem,4,2,0,40
+Headless,4,2,0,40
+Wendigo,4,2,0,40
+Lamashtu,4,2,0,60
+Lamia,4,2,0,55
+Lilith,4,2,0,55
+Magick Pot,5,1,0,85
+Cassie,3,2,0,40
+Great Malboro,3,2,0,40
+Malboro,3,2,0,40
+Malboro King,3,2,0,40
+Mimic,2,2,5,50
+Rafflesia,1,2,0,65
+Adamantitan,3,2,0,35
+Great Tortoise,3,2,0,35
+Rocktitan,3,2,0,35
+Toughskin,3,2,0,35
+Banshee,4,3,5,65
+Sprite,4,3,10,70
+Alraune,4,3,10,50
+Deadly Nightshade,4,3,5,50
+Tonberry ,2,2,0,65
+Tonberry King,3,2,0,65
+Magick Weapon,0,0,0,65
+Humbaba,4,3,5,65
+Loup-garou,4,3,5,65
+Werewolf,4,3,0,55
+Zaghnal,4,3,0,60
+Hellhound,4,3,5,60
+Wolf,4,3,0,50
+Worgen,4,3,0,50
+Yowie,0,0,0,65
+Ghoul,3,2,0,65
+Zombie,3,2,0,65
