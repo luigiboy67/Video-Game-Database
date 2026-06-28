@@ -267,103 +267,109 @@ Scarlet Pick,88,65740,1,222,82,72,20,53,9854,1,703
 Scissor Chitin,62,33850,1028,111,112,36,30,31,5460,180,94
 Scissor Claw,64,57580,1240,151,10,37,33,33,6446,228,106
 Scissor Devil,82,78500,2080,196,196,43,41,68,11281,369,134
-Sea Hulk,,,,,,,,,,,
-Sea Worm,,,,,,,,,,,
-Sentry,,,,,,,,,,,
-Sergeant,,,,,,,,,,,
-Sergeant Major,,,,,,,,,,,
-Shadow Monk,,,,,,,,,,,
-Shinra Troop,,,,,,,,,,,
-Shooter Machine,,,,,,,,,,,
-Simurgh,,,,,,,,,,,
-Sky Armor,,,,,,,,,,,
-Sky Gunner,,,,,,,,,,,
-Slaps,,,,,,,,,,,
-Special Oops Officer,,,,,,,,,,,
-Spike Machine,,,,,,,,,,,
-Spitfire,,,,,,,,,,,
-Spriggan,,,,,,,,,,,
-Steam Engine,,,,,,,,,,,
-Stive Machine,,,,,,,,,,,
-Storm Trooper,,,,,,,,,,,
-Sumbha,,,,,,,,,,,
-Support Machine+,,,,,,,,,,,
-Sweeper,,,,,,,,,,,
-Sweeper+,,,,,,,,,,,
-Sweeper++,,,,,,,,,,,
-Sweeper+++,,,,,,,,,,,
-Tarantula,,,,,,,,,,,
-Three Stars,,,,,,,,,,,
-Thunderbird,,,,,,,,,,,
-Titanis,,,,,,,,,,,
-Tonberry,,,,,,,,,,,
-Tonberry Guard,,,,,,,,,,,
-Tonberry King,,,,,,,,,,,
-Touchy Bomb,,,,,,,,,,,
-Trap,,,,,,,,,,,
-Tycoon,,,,,,,,,,,
-Vajradhara Asura,,,,,,,,,,,
-Vajradhara Cala,,,,,,,,,,,
-Vajradhara Indra,,,,,,,,,,,
-Vajradhara Karura,,,,,,,,,,,
-Vajradhara Kinnara,,,,,,,,,,,
-Vajradhara Kumbhira,,,,,,,,,,,
-Vajradhara Rakshasa,,,,,,,,,,,
-Vajradhara Yaksha,,,,,,,,,,,
-Very Hungry,,,,,,,,,,,
-Volcano,,,,,,,,,,,
-Warrant Officer,,,,,,,,,,,
-Water Warrior,,,,,,,,,,,
-Worm,,,,,,,,,,,
-Worm Elite,,,,,,,,,,,
-Wutai Captain,,,,,,,,,,,
-Wutai Colonel,,,,,,,,,,,
-Wutai Corporal,,,,,,,,,,,
-Wutai Imperial Guard,,,,,,,,,,,
-Wutai Private,,,,,,,,,,,
-Wutai Sergeant,,,,,,,,,,,
-Wutai Sergeant Major,,,,,,,,,,,
-Wutai Soldier Bing,,,,,,,,,,,
-Wutai Soldier Ding,,,,,,,,,,,
-Wutai Soldier Geng,,,,,,,,,,,
-Wutai Soldier Ji,,,,,,,,,,,
-Wutai Soldier Jia,,,,,,,,,,,
-Wutai Soldier Wu,,,,,,,,,,,
-Wutai Soldier Xin,,,,,,,,,,,
-Wutai Soldier Yi,,,,,,,,,,,
-Wutai Staff Sergeant,,,,,,,,,,,
-Wutai War Chief,,,,,,,,,,,
-Wyerd,,,,,,,,,,,
-Yellow Materia,,,,,,,,,,,
-Angeal Penance,,,,,,,,,,,
-Bahamut,,,,,,,,,,,
-Bahamut Fury,,,,,,,,,,,
-Behemoth,,,,,,,,,,,
-Behemoth King,,,,,,,,,,,
-Blizzard Materia,,,,,,,,,,,
-Cutter Machine ,,,,,,,,,,,
-Fire Materia,,,,,,,,,,,
-G Eliminator,,,,,,,,,,,
-G Regicide,,,,,,,,,,,
-G Shadow Knight,,,,,,,,,,,
-G Shadow Mage,,,,,,,,,,,
-G Shadow Scythe,,,,,,,,,,,
-G Eraser,,,,,,,,,,,
-General’s Tank,,,,,,,,,,,
-Genesis,,,,,,,,,,,
-Genesis,,,,,,,,,,,
-Genesis Avatar,,,,,,,,,,,
-Guard Scorpion,,,,,,,,,,,
-Guard Spider,,,,,,,,,,,
-Hollander,,,,,,,,,,,
-Ifrit,,,,,,,,,,,
-Materia,,,,,,,,,,,
-Minerva,,,,,,,,,,,
-Pile Machine,,,,,,,,,,,
-Sephiroth,,,,,,,,,,,
-Shot Machine,,,,,,,,,,,
-Support Machine,,,,,,,,,,,
-Support Materia,,,,,,,,,,,
-Thunder Materia,,,,,,,,,,,
-Vajradhara Tai,,,,,,,,,,,
-Vajradhara Wu,,,,,,,,,,,
+Sea Hulk,36,52800,187,44,31,22,23,33,1052,220,78
+Sea Worm,14,3352,85,18,36,7,12,13,177,52,61
+Sentry,3,210,2,3,1,2,1,3,1,1,1
+Sergeant,27,8190,20,29,6,19,12,16,122,16,80
+Sergeant Major,29,11376,22,31,6,21,13,18,133,20,90
+Shadow Monk,83,158540,3333,188,224,9,242,25,2902,260,238
+Shinra Troop,29,6150,11,31,3,65,7,12,1,20,0
+Shooter Machine,64,33205,1,91,17,67,27,23,2736,1,152
+Simurgh,59,12850,853,103,101,8,11,26,586,144,86
+Sky Armor,33,16844,1,34,18,177,80,32,1236,1,106
+Sky Gunner,27,8190,1,26,15,172,74,24,524,1,99
+Slaps,27,2280,387,16,5,238,1,37,228,64,72
+Special Oops Officer,27,6460,8,26,3,2,5,10,56,16,40
+Spike Machine,79,62850,1,188,15,77,29,27,3652,1,173
+Spitfire,48,22205,1,46,29,189,83,40,1919,1,118
+Spriggan,4,460,35,8,10,3,17,12,11,30,12
+Steam Engine,34,12510,294,22,33,32,40,21,238,48,185
+Stive Machine,87,122800,1,201,15,83,34,30,7155,1,193
+Storm Trooper,8,538,3,16,2,3,2,5,8,8,20
+Sumbha,66,16208,530,77,53,14,23,9,655,96,61
+Support Machine+,73,2880,1,53,30,10,6,4,39,1,1
+Sweeper,13,3400,1,15,15,33,7,4,65,1,84
+Sweeper+,18,3380,1,17,10,55,15,8,163,1,96
+Sweeper++,58,24580,1,78,15,61,23,18,1688,1,112
+Sweeper+++,77,37870,1,142,15,72,28,25,3432,1,161
+Tarantula,69,247800,1,161,64,63,17,46,6380,1,521
+Three Stars,80,67850,9999,135,255,242,255,20,1293,20000,1
+Thunderbird,57,13580,467,58,99,6,8,22,349,120,73
+Titanis,62,13892,538,68,22,12,4,38,330,88,76
+Tonberry,17,9999,999,22,22,7,12,54,1,1,500
+Tonberry Guard,80,274580,9999,155,218,21,21,63,1,1,5000
+Tonberry King,90,487800,9999,187,255,28,26,66,1,1,10000
+Touchy Bomb,27,15530,152,14,30,15,26,16,166,36,73
+Trap,19,872,102,15,26,21,24,11,52,20,26
+Tycoon,88,215000,8344,154,154,27,23,65,9802,668,860
+Vajradhara Asura,61,305000,113,255,1,28,4,14,8429,224,187
+Vajradhara Cala,34,41600,59,46,1,27,2,5,873,128,56
+Vajradhara Indra,46,52612,72,58,1,28,3,6,2145,148,142
+Vajradhara Karura,49,84658,89,75,1,28,3,10,3808,168,163
+Vajradhara Kinnara,52,92543,104,86,2,28,3,13,6516,196,187
+Vajradhara Kumbhira,52,92543,97,86,2,28,3,11,6516,196,187
+Vajradhara Rakshasa,44,44040,67,55,1,27,2,5,1384,136,78
+Vajradhara Yaksha,21,17500,48,38,31,27,2,4,483,112,44
+Very Hungry,72,137800,6250,104,121,14,34,72,2330,136,153
+Volcano,86,27850,3384,155,107,27,42,40,1994,108,131
+Warrant Officer,30,14971,24,48,7,23,16,20,138,20,100
+Water Warrior,26,17445,41,26,32,12,13,39,384,116,173
+Worm,12,3300,38,14,19,4,7,9,66,36,58
+Worm Elite,68,12290,644,132,87,14,31,16,662,112,81
+Wutai Captain,34,4654,17,38,12,16,9,27,242,36,56
+Wutai Colonel,59,29330,29,121,15,20,17,3,724,48,80
+Wutai Corporal,24,4280,15,25,7,14,6,18,172,32,44
+Wutai Imperial Guard,70,48520,36,153,17,24,23,3,907,52,100
+Wutai Private,3,178,9,6,3,11,3,1,4,1,12
+Wutai Sergeant,4,575,12,12,3,11,3,3,10,8,24
+Wutai Sergeant Major,26,4258,16,28,10,15,7,23,205,32,48
+Wutai Soldier Bing,18,2227,16,17,8,14,7,22,104,12,24
+Wutai Soldier Ding,25,3280,16,27,11,15,8,26,143,16,26
+Wutai Soldier Geng,48,19570,33,101,16,21,19,1,476,28,34
+Wutai Soldier Ji,42,103054,23,74,14,17,13,31,383,24,30
+Wutai Soldier Jia,14,691,10,14,5,13,3,9,8,8,16
+Wutai Soldier Wu,37,4375,19,71,14,16,11,29,311,20,28
+Wutai Soldier Xin,60,20350,34,122,16,22,21,1,712,32,40
+Wutai Soldier Yi,16,1272,14,16,6,14,5,16,44,12,20
+Wutai Staff Sergeant,19,3350,14,21,6,13,4,14,63,28,30
+Wutai War Chief,55,21053,24,103,14,18,15,3,575,40,60
+Wyerd,55,48799,29,133,9,254,48,7,5966,244,263
+Yellow Materia,31,14352,999,4,36,133,144,10,48,132,100
+Angeal Penance,25,27800,544,37,44,107,163,24,4711,3000,4000
+Bahamut (Banora),13,8740,424,18,24,69,102,16,276,300,280
+Bahamut (Mission),17,10320,820,20,27,99,102,22,654,408,380
+Bahamut Fury (Shinra HQ),20,18000,312,25,111,36,118,30,682,1,410
+Bahamut Fury (Mission),72,99999,1380,79,38,117,104,64,1411,1184,560
+Behemoth,6,7870,122,8,11,10,9,8,7,16,1
+Behemoth King,41,118780,321,62,52,14,11,39,3280,316,96
+Blizzard Materia,30,14352,505,2,35,104,155,10,48,104,1
+Cutter Machine ,15,9800,1,15,12,52,15,6,172,1,121
+Fire Materia,30,14352,505,2,35,104,155,10,48,104,1
+G Eliminator,38,65300,999,41,39,18,11,36,2180,420,113
+G Regicide,40,95800,1830,58,66,22,12,38,3718,648,154
+G Shadow Knight,36,5500,61,33,29,64,70,46,1,24,1
+G Shadow Mage,36,4463,124,17,40,29,180,42,1,24,1
+G Shadow Scythe,36,5072,24,43,17,180,30,44,1,24,1
+G Eraser,15,8400,170,14,21,22,58,17,161,112,560
+General’s Tank,26,26860,1,32,18,175,40,20,918,1,336
+Genesis (1st),20,14800,525,39,38,74,88,32,3318,2004,5000
+Genesis (5-1-5),20,14800,525,39,38,74,88,32,785,420,1
+Genesis,46,99999,9999,51,43,37,48,61,1,1,1
+Genesis Avatar,53,600000,2301,57,48,26,20,36,1,1,1
+Guard Scorpion,32,49180,1,35,32,58,14,32,1872,1,333
+Guard Spider,10,7225,1,17,14,54,12,16,162,1,120
+Hollander (Normal),37,98540,156,20,42,6,82,37,9977,1780,3000
+Hollander (M5-2-3),37,98540,156,20,42,6,82,37,1753,308,85
+Ifrit (Fort Tamblin),8,6720,403,17,14,20,30,12,321,1,430
+Ifrit (Mission),9,7820,403,18,15,20,30,12,162,162,180
+Materia,50,230000,5000,60,54,81,128,35,1,1,1
+Minerva,100,10000000,999999,255,255,201,255,255,1,40000,1
+Pile Machine,16,10230,1,16,15,47,14,6,172,1,121
+Sephiroth (Reactor),13,52820,424,40,38,120,128,62,6415,1,1
+Sephiroth (Mission),36,31900,9999,50,39,126,165,64,7358,1200,1
+Shot Machine,14,8680,1,12,17,57,16,6,172,1,121
+Support Machine,12,1470,1,10,9,6,2,3,12,1,1
+Support Materia,30,14352,505,2,35,104,155,10,48,104,1
+Thunder Materia,30,14352,505,2,35,104,155,10,48,104,1
+Vajradhara Tai,7,2900,22,14,1,27,1,4,69,80,38
+Vajradhara Wu,7,2900,22,14,1,27,1,4,69,80,38
