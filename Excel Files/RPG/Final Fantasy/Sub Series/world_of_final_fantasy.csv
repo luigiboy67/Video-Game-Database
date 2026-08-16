@@ -1,244 +1,243 @@
 Name,HP,Strength,Magic,Defense,Magic Defense,Agility,AP,Size,Weight
-Tama,,,,,,,,,
-Tamamohime,,,,,,,,,
-Yurugu,,,,,,,,,
-Kyubi,,,,,,,,,
-2P Tama,157,13,13,13,13,23,4,S,2
-Chocochick,139,14,14,14,14,27,4,S,1
-Chocobo,145,16,12,15,14,26,4,M ,3
-Mecha Chocobo,,,,,,,,,
-Black Chocochick,127,15,12,15,12,33,4,S,1
-Hyperion,,,,,,,,,
-White Chocobo,,,,,,,,,
-Sylph,,,,,,,,,
-Siren,,,,,,,,,
-Serafie,,,,,,,,,
-Diva Serafie,,,,,,,,,
 2P Serafie,134,13,14,13,15,25,4,S,2
-Mu,,,,,,,,,
-Skull Eater,,,,,,,,,
-Carbuncle,127,12,19,12,12,19,4,M,5
-Reaver Mu,,,,,,,,,
-Nut Eater,,,,,,,,,
-Topaz Carbuncle,,,,,,,,,
-Goblin,,,,,,,,,
-Goblin Guard,,,,,,,,,
-Princes Goblin,,,,,,,,,
-Red Cap,,,,,,,,,
-Red Captain,,,,,,,,,
-Mandragora,,,,,,,,,
-Malboro,,,,,,,,,
-Korrigan,,,,,,,,,
-Malboro Menace,,,,,,,,,
-Copper Gnome,166,14,13,16,13,22,4,M,5
-Mythril Giant,,,,,,,,,
-Iron Giant,,,,,,,,,
-Lead Gnome,,,,,,,,,
-Chrome Giant,178,13,12,17,14,22,4,L,7
-Mini Golem,,,,,,,,,
-Water Golem,,,,,,,,,
-Golem Head,,,,,,,,,
-Floating Eye,,,,,,,,,
-Ahriman,147,13,17,12,18,22,4,L,5
-Blood Eye,142,13,17,14,17,23,4,M,3
-Buer,148,13,17,13,16,22,4,L ,5
-Fritt,,,,,,,,,
+2P Tama,157,13,13,13,13,23,4,S,2
+Adamantoise,1073,15,13,25,21,20,4,XL,N/A
 Affrite,127,16,17,15,12,24,4,M,4
-Ifrit,,,,,,,,,
-Ifreeta,,,,,,,,,
-Weeglee,,,,,,,,,
-Gleed,,,,,,,,,
-Gleefrit,,,,,,,,,
-Shiva,,,,,,,,,
-Shivalry,,,,,,,,,
+Ahriman,147,13,17,12,18,22,4,L,5
+Asterius,165,16,13,16,15,20,4,L,7
+Astraea,149,16,16,12,13,24,4,L,5
 Bablizz,146,12,16,14,15,25,4,S,2
-Shivverina,,,,,,,,,
-Shivver,,,,,,,,,
-Zapt,,,,,,,,,
-Zaphr,,,,,,,,,
-Ramuh,,,,,,,,,
-Ramewl,,,,,,,,,
-Joult,,,,,,,,,
-Voultr,,,,,,,,,
-Rairamuh,,,,,,,,,
-White Nakk,,,,,,,,,
-Fenrir,,,,,,,,,
-Cerberus,877,18,17,12,15,32,4,XL,N/A
-Black Nakk,135,15,15,14,14,26,4,S,3
-Elefenrir,,,,,,,,,
-Babyhemoth,168,17,13,13,14,23,4,M,5
-Behemoth,175,17,13,14,14,21,4,L,7
-Behemonster,890,18,17,18,14,21,4,XL,N/A
-Kuza Kit,,,,,,,,,
-Kuza Beast,,,,,,,,,
-Daek Behemoth,,,,,,,,,
-Moogle,,,,,,,,,
-Kupirate,,,,,,,,,
-Kupicaroon,,,,,,,,,
-Glow Moogle,,,,,,,,,
-Deathskull,,,,,,,,,
-Undead Princess,,,,,,,,,
-Mordskull,,,,,,,,,
-Metalliskull,,,,,,,,,
-Right Claw,,,,,,,,,
-Left Claw,,,,,,,,,
-Cockatrice,124,14,13,16,16,25,4,M,3
-Nirvalefor,,,,,,,,,
-Dualizard,,,,,,,,,
-Trihyde,,,,,,,,,
-Tiamat,,,,,,,,,
-Bihydra,136,18,16,13,13,22,4,M,5
-Ghidra,,,,,,,,,
-Nidhogg,,,,,,,,,
-Cactuar,136,14,14,14,14,28,4,S,1
-Cactrot,139,14,14,14,14,28,4,S,1
-Gigantrot,,,,,,,,,
-Cactuar Johnny,130,14,14,14,14,25,4,S,1
-Magic Pot,,,,,,,,,
-Mimic,,,,,,,,,
-Mimic Queen,,,,,,,,,
-Magic Jar,,,,,,,,,
-Mimic Jackpot,,,,,,,,,
-Kobold Mimic,,,,,,,,,
-Quacho,,,,,,,,,
-Quacho Queen,,,,,,,,,
-Quanchacho,,,,,,,,,
-Baby Tonberry,119,13,14,17,17,24,4,S,2
-Tonberry,,,,,,,,,
-Tonberry King,,,,,,,,,
 Baby Paleberry,167,12,13,16,16,23,4,S,2
-Palebery,,,,,,,,,
-Paleberry King,,,,,,,,,
-Red Bonnetberry,,,,,,,,,
-Werebat,,,,,,,,,
-Vampire,,,,,,,,,
-Vampire Prime,,,,,,,,,
-Ice Bat,,,,,,,,,
-Demivampire,,,,,,,,,
-Mini Flan,,,,,,,,,
+Baby Tonberry,119,13,14,17,17,24,4,S,2
+Babyhemoth,168,17,13,13,14,23,4,M,5
+Bahamut,148000,???,???,???,???,???,???,???,???
+Bahamutian Commander,???,???,???,???,???,???,4,L,???
+Bahamutian Soldier,???,???,???,???,???,???,4,L,???
+Behemonster,890,18,17,18,14,21,4,XL,N/A
+Behemoth,175,17,13,14,14,21,4,L,7
+Bihydra,136,18,16,13,13,22,4,M,5
+Bismarck,895,19,14,16,16,30,4,XL,N/A
+Black Chocochick,127,15,12,15,12,33,4,S,1
+Black Mage,???,???,???,???,???,???,4,M,???
+Black Nakk,135,15,15,14,14,26,4,S,3
+Blood Eye,142,13,17,14,17,23,4,M,3
+Boko,???,???,???,???,???,???,4,M,???
+Bomb,142,17,14,14,14,24,4,M,4
+Bombino,163,16,14,12,12,29,4,S,3
+Brandelis,35036,???,???,???,???,???,???,???,???
+Brothertaur,160,16,12,16,15,21,4,M,5
+Brrblizz,153,14,14,14,14,24,4,S,1
+Buer,148,13,17,13,16,22,4,L ,5
+Cactrot,139,14,14,14,14,28,4,S,1
+Cactuar,136,14,14,14,14,28,4,S,1
+Cactuar Johnny,130,14,14,14,14,25,4,S,1
+Carbuncle,127,12,19,12,12,19,4,M,5
+Cenchos,165,16,16,12,16,20,4,L,6
+Cerberus,877,18,17,12,15,32,4,XL,N/A
+Chocobo,145,16,12,15,14,26,4,M ,3
+Chocochick,139,14,14,14,14,27,4,S,1
+Chrome Giant,178,13,12,17,14,22,4,L,7
+Cocadrille,172,11,11,17,17,23,4,M,3
+Cockatrice,124,14,13,16,16,25,4,M,3
+Coeurl,138,14,18,14,15,22,4,L,6
+Copper Gnome,166,14,13,16,13,22,4,M,5
+Crimson Armor,142,13,16,13,15,19,4,L,6
+Dark Behemoth,157,15,13,13,13,21,4,L,7
+Daigoro,130,16,13,14,13,29,4,S,1
+Death Machine,131,18,13,18,14,19,4,L,7
+Death Searcher,109,13,17,13,18,27,4,S,2
+Deathskull,143,12,17,13,17,23,4,M,3
+Demivampire,133,16,13,16,17,21,4,M,4
+Devil Wolf,139,17,15,13,13,25,4,M,4
+Diablos,38004,???,???,???,???,???,???,???,???
+Diva Serafie,,,,,,,,,
+Dramut,126,15,15,15,15,24,4,S,1
+Dualizard,140,17,17,13,14,22,4,M,5
+Einhander,,,,,,,,,
+Elasmos,,,,,,,,,
+Elefenrir,,,,,,,,,
+Entom Guard,,,,,,,,,
+Entom Soldier,,,,,,,,,
+Federation Guard,,,,,,,,,
+Fenrir,,,,,,,,,
+Flammantoise,,,,,,,,,
 Flan,,,,,,,,,
 Flan Princess,,,,,,,,,
-Kaguya Flan,,,,,,,,,
-Sharqual,,,,,,,,,
-Mega Sharqual,,,,,,,,,
-Bismarck,895,19,14,16,16,30,4,XL,N/A
-Nightsqual,,,,,,,,,
-Mega Nighsqual,,,,,,,,,
-Sea Snake,,,,,,,,,
-Leviathan,,,,,,,,,
-Sea Serpent,,,,,,,,,
-Elasmos,,,,,,,,,
-Minimantoise,,,,,,,,,
-Adamantoise,1073,15,13,25,21,20,4,XL,N/A
-Flammantoise,,,,,,,,,
-Spark Dragon,,,,,,,,,
-Red Dragon,,,,,,,,,
-Mist Dragon,,,,,,,,,
+Floating Eye,,,,,,,,,
+Fritt,,,,,,,,,
+Gamit,,,,,,,,,
+Garchimacera,,,,,,,,,
+Garland ,,,,,,,,,
+Ghidra,,,,,,,,,
+Gigantrot,,,,,,,,,
+Gilgamesh,,,,,,,,,
+Gleed,,,,,,,,,
+Gleefrit,,,,,,,,,
+Glow Moogle,,,,,,,,,
+Goblin,,,,,,,,,
+Goblin Guard,,,,,,,,,
+Golden Flan,,,,,,,,,
+Golem Head,,,,,,,,,
+Grandfenrir,,,,,,,,,
 Holy Dragon,,,,,,,,,
-Sky Dragon,,,,,,,,,
-Bombino,163,16,14,12,12,29,4,S,3
-Bomb,142,17,14,14,14,24,4,M,4
-King Bomb,,,,,,,,,
-Phoenix,,,,,,,,,
+Hyperion,,,,,,,,,
+Ice Bat,,,,,,,,,
+Ifreeta,,,,,,,,,
+Ifreeta,,,,,,,,,
+Ifrit,,,,,,,,,
+Ifrit ,,,,,,,,,
+Imp,,,,,,,,,
 Iris,,,,,,,,,
-Water Toad,,,,,,,,,
+Iron Giant,,,,,,,,,
+Iron Muscles,,,,,,,,,
+Joult,,,,,,,,,
+Kaguya Flan,,,,,,,,,
+King Bomb,,,,,,,,,
+Kobold Mimic,,,,,,,,,
+Korrigan,,,,,,,,,
+Kraken,,,,,,,,,
+Kupicaroon,,,,,,,,,
+Kupirate,,,,,,,,,
+Kuza Beast,,,,,,,,,
+Kuza Kit,,,,,,,,,
+Kyubi,,,,,,,,,
+Largebuncle,,,,,,,,,
+Lead Gnome,,,,,,,,,
+Left Claw,,,,,,,,,
+Lesser Coeurl,,,,,,,,,
+Leviathan,,,,,,,,,
+Leviathan,,,,,,,,,
+Lich,,,,,,,,,
 Lucky Toad,,,,,,,,,
-Wind Toad,,,,,,,,,
+Maduin,,,,,,,,,
+Magic Jar,,,,,,,,,
+Magic Pot,,,,,,,,,
+Magitek Armor,,,,,,,,,
+Magitek Armor A,,,,,,,,,
+Magitek Armor B,,,,,,,,,
+Magitek Armor P,,,,,,,,,
+Magna Roader (Purple),,,,,,,,,
+Magna Roader (Red),,,,,,,,,
+Magna Roader (Yellow),,,,,,,,,
+Malboro,,,,,,,,,
+Malboro Menace,,,,,,,,,
+Mandragora,,,,,,,,,
 Manticore,,,,,,,,,
-Sphinx,,,,,,,,,
-Sandicore,,,,,,,,,
+Marilith,,,,,,,,,
+Master Cactuar,,,,,,,,,
+Master Moogle ,,,,,,,,,
+Master Tonberry,,,,,,,,,
+Mecha Choco,,,,,,,,,
+Mecha Chocobo,,,,,,,,,
+Mecha Chocobo,,,,,,,,,
+Mega Nighsqual,,,,,,,,,
+Mega Red Dragon,,,,,,,,,
+Mega Sharqual,,,,,,,,,
+Mel,,,,,,,,,
 Memecoleous,,,,,,,,,
+Metalliskull,,,,,,,,,
+Mimic,,,,,,,,,
+Mimic Jackpot,,,,,,,,,
+Mimic Queen,,,,,,,,,
+Mindflayer,,,,,,,,,
+Miney,,,,,,,,,
+Mini Flan,,,,,,,,,
+Mini Golem,,,,,,,,,
+Minimantoise,,,,,,,,,
+Minotaur,,,,,,,,,
+Mist Dragon,,,,,,,,,
+Mo,,,,,,,,,
+Moogle,,,,,,,,,
+Moomba,,,,,,,,,
+Mordskull,,,,,,,,,
+Mu,,,,,,,,,
+Mythril Giant,,,,,,,,,
+Nidhogg,,,,,,,,,
+Nightmare,,,,,,,,,
+Nightsqual,,,,,,,,,
+Nirvalefor,,,,,,,,,
+Nut Eater,,,,,,,,,
+Odin,,,,,,,,,
+Odin,,,,,,,,,
+Omega,,,,,,,,,
+Omega Bane,,,,,,,,,
+Omega God,,,,,,,,,
+Paleberry King,,,,,,,,,
+Palebery,,,,,,,,,
+Phoenix,,,,,,,,,
+Ponini,,,,,,,,,
+Princes Goblin,,,,,,,,,
+Princess Goblin,,,,,,,,,
+Quacho,,,,,,,,,
+Quacho Queen,,,,,,,,,
+Quacho Queen,,,,,,,,,
+Quanchacho,,,,,,,,,
+Rairamuh,,,,,,,,,
+Ramewl,,,,,,,,,
+Ramewl,,,,,,,,,
+Ramuh,,,,,,,,,
+Ramuh ,,,,,,,,,
+Reaver Mu,,,,,,,,,
+Red Bonnetberry,,,,,,,,,
+Red Cap,,,,,,,,,
+Red Captain,,,,,,,,,
+Red Dragon,,,,,,,,,
+Right Claw,,,,,,,,,
 Sand Worm,,,,,,,,,
+Sandicore,,,,,,,,,
+Sea Serpent,,,,,,,,,
+Sea Snake,,,,,,,,,
 Sea Worm,,,,,,,,,
 Searcher,,,,,,,,,
-Magitek Armor,,,,,,,,,
-Death Machine,,,,,,,,,
 Security Eye,,,,,,,,,
-Magitek Armor A,,,,,,,,,
-War Machine,,,,,,,,,
-Death Searcher,,,,,,,,,
-Magitek Armor P,,,,,,,,,
-Crimson Armor,142,13,16,13,15,19,4,L,6
-Imp,,,,,,,,,
-Diablos,,,,,,,,,
-Garchimacera,,,,,,,,,
-Brothertaur,160,16,12,16,15,21,4,M,5
-Minotaur,,,,,,,,,
-Sistertaur,,,,,,,,,
-Asterius,165,16,13,16,15,20,4,L,7
-Gilgamesh,,,,,,,,,
-Unicorn,,,,,,,,,
-Odin,,,,,,,,,
-Nightmare,,,,,,,,,
-Mindflayer,,,,,,,,,
-Kraken,,,,,,,,,
-Ultros,,,,,,,,,
-Squidraken,,,,,,,,,
-Cenchos,165,16,16,12,16,20,4,L,6
-Titan ,,,,,,,,,
-Maduin,,,,,,,,,
-Iron Muscles,,,,,,,,,
-Magna Roader (Purple),,,,,,,,,
-Magna Roader (Yellow),,,,,,,,,
-Magna Roader (Red),,,,,,,,,
-Entom Guard,,,,,,,,,
-Omega,,,,,,,,,
-Entom Soldier,,,,,,,,,
-Omega Bane,,,,,,,,,
-Ultima Weapon,,,,,,,,,
-Supraultima Weapon,,,,,,,,,
-Einhander,,,,,,,,,
-Astraea,,,,,,,,,
-XG,,,,,,,,,
-Omega God,,,,,,,,,
-Ifrit ,,,,,,,,,
+Serafie,,,,,,,,,
+Sharqual,,,,,,,,,
 Shiva,,,,,,,,,
-Ramuh ,,,,,,,,,
-Leviathan,,,,,,,,,
-Bahamut,148000,???,???,???,???,???,???,???,???
-Odin,,,,,,,,,
-Diablos,,,,,,,,,
-Master Moogle ,,,,,,,,,
-Master Cactuar,,,,,,,,,
-Master Tonberry,,,,,,,,,
-Mecha Chocobo,,,,,,,,,
-Boko,???,???,???,???,???,???,4,M,???
-Ifreeta,,,,,,,,,
+Shiva,,,,,,,,,
+Shiva-Ixion,,,,,,,,,
 Shivalry,,,,,,,,,
-Ramewl,,,,,,,,,
-Quacho Queen,,,,,,,,,
-Miney,,,,,,,,,
-Mo,,,,,,,,,
-Princess Goblin,,,,,,,,,
+Shivalry,,,,,,,,,
+Shivver,,,,,,,,,
+Shivverina,,,,,,,,,
+Siren,,,,,,,,,
+Sistertaur,,,,,,,,,
+Skull Eater,,,,,,,,,
+Sky Dragon,,,,,,,,,
+Slydra,,,,,,,,,
+Spark Dragon,,,,,,,,,
+Sphinx,,,,,,,,,
+Squidraken,,,,,,,,,
+Supraultima Weapon,,,,,,,,,
+Syldra,,,,,,,,,
+Sylph,,,,,,,,,
+Sylphine,,,,,,,,,
+Tama,,,,,,,,,
+Tamamohime,,,,,,,,,
+Tiamat,,,,,,,,,
+Titan ,,,,,,,,,
+Tonberry,,,,,,,,,
+Tonberry King,,,,,,,,,
+Topaz Carbuncle,,,,,,,,,
+Trihyde,,,,,,,,,
+Ultima Weapon,,,,,,,,,
+Ultros,,,,,,,,,
 Ultros,,,,,,,,,
 Undead Princess,,,,,,,,,
-Syldra,,,,,,,,,
-Grandfenrir,,,,,,,,,
-Mega Red Dragon,,,,,,,,,
-Golden Flan,,,,,,,,,
-Black Mage,???,???,???,???,???,???,4,M,???
-Magitek Armor B,,,,,,,,,
-Bahamutian Soldier,???,???,???,???,???,???,4,L,???
-Bahamutian Commander,???,???,???,???,???,???,4,L,???
-Federation Guard,,,,,,,,,
-Mecha Choco,,,,,,,,,
-Ponini,,,,,,,,,
-Dramut,,,,,,,,,
-Sylphine,,,,,,,,,
-Devil Wolf,,,,,,,,,
-Lesser Coeurl,,,,,,,,,
-Moomba,,,,,,,,,
-Coeurl,138,14,18,14,15,22,4,L,6
-Daigoro,,,,,,,,,
-Gamit,,,,,,,,,
+Undead Princess,,,,,,,,,
+Unicorn,,,,,,,,,
+Vampire,,,,,,,,,
+Vampire Prime,,,,,,,,,
+Voultr,,,,,,,,,
+War Machine,,,,,,,,,
+Water Golem,,,,,,,,,
+Water Toad,,,,,,,,,
+Weeglee,,,,,,,,,
+Werebat,,,,,,,,,
+White Chocobo,,,,,,,,,
+White Nakk,,,,,,,,,
+Wind Toad,,,,,,,,,
+XG,,,,,,,,,
 Yojimbo,,,,,,,,,
-Marilith,,,,,,,,,
-Lich,,,,,,,,,
-Largebuncle,,,,,,,,,
-Slydra,,,,,,,,,
-Shiva-Ixion,,,,,,,,,
-Garland ,,,,,,,,,
-Mel,,,,,,,,,
-Brrblizz,153,14,14,14,14,24,4,S,1
-Brandelis,35036,???,???,???,???,???,???,???,???
-Cocadrille,172,11,11,17,17,23,4,M,3
+Yurugu,,,,,,,,,
+Zaphr,,,,,,,,,
+Zapt,,,,,,,,,
