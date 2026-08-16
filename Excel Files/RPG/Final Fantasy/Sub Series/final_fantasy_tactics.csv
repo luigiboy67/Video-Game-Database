@@ -1,63 +1,64 @@
 Name,Move,Jump,Phys. Evasion Rate
-Chocobo,,,
-Black Chocobo,,,
-Red Chocobo,,,
-Goblin,,,
-Black Goblin,,,
-Gobbledygook,,,
-Bomb,,,
-Grenade,,,
-Exploder,,,
-Red Panther,,,
-Coeurl,,,
-Vampire Cat,,,
-Piscodaemon,,,
-Squidrakin,,,
-Mindflayer,,,
-Skeleton,,,
-Bonesnatch,,,
-Skeletal Fiend,,,
-Ghoul,,,
-Ghast,,,
-Revenant,,,
-Floating Eye,,,
-Ahriman,,,
-Plague Horror,,,
-Jura Aevis,,,
-Steelhawk,,,
-Cockatrice,,,
-Pig,,,
-Swine,,,
-Wild Boar,,,
-Dryad,,,
-Treant,,,
-Elder Treant,,,
-Wisenkin,,,
-Minotaur,,,
-Sekhret,,,
-Malboro,,,
-Ochu,,,
-Great Malboro,,,
-Behemoth,,,
-Behemoth King,,,
-Dark Behemoth,,,
-Dragon,,,
-Blue Dragon,,,
-Red Dragon,,,
-Hydra,,,
-Greater Hydra,,,
-Tiamat,,,
-Archaeodaemon,,,
-Boco (Wiegraf’s Chocobo),,,
-Construct 7,,,
-Dark Dragon (Bredmondt),,,
-Reaver,,,
-Ultima Demon,,,
-Cuchulainn,,,
-Belias,,,
-Zalera,,,
-Adrammelech,,,
-Hashmal,,,
-Ultima (1st Form),,,
-Ultima (2nd Form),,,
-Elidibus,,,
+Chocobo,6,5,15.00%
+Black Chocobo,6,5,25.00%
+Red Chocobo,6,5,10.00%
+Goblin,3,3,18.00%
+Black Goblin,3,3,19.00%
+Gobbledygook,3,3,20.00%
+Bomb,3,3,10.00%
+Grenade,3,3,11.00%
+Exploder,3,3,12.00%
+Red Panther,4,4,23.00%
+Coeurl,4,4,26.00%
+Vampire Cat,4,4,24.00%
+Piscodaemon,3,3,9.00%
+Squidrakin,3,3,9.00%
+Mindflayer,3,3,9.00%
+Skeleton,3,4,11.00%
+Bonesnatch,3,4,12.00%
+Skeletal Fiend,3,4,13.00%
+Ghoul,4,4,26.00%
+Ghast,4,4,27.00%
+Revenant,5,4,28.00%
+Floating Eye,5,5,12.00%
+Ahriman,5,5,13.00%
+Plague Horror,5,5,11.00%
+Jura Aevis,6,6,30.00%
+Steelhawk,6,6,28.00%
+Cockatrice,6,6,33.00%
+Pig,3,3,42.00%
+Swine,3,3,36.00%
+Wild Boar,3,3,39.00%
+Dryad,3,3,0.00%
+Treant,3,3,0.00%
+Elder Treant,3,3,0.00%
+Wisenkin,3,3,11.00%
+Minotaur,4,3,15.00%
+Sekhret,3,3,12.00%
+Malboro,3,3,0.00%
+Ochu,3,3,0.00%
+Great Malboro,3,3,0.00%
+Behemoth,4,3,13.00%
+Behemoth King,4,3,13.00%
+Dark Behemoth,4,3,18.00%
+Dragon,5,3,5.00%
+Blue Dragon,5,3,9.00%
+Red Dragon,5,3,8.00%
+Hydra,4,4,0.00%
+Greater Hydra,4,4,0.00%
+Tiamat,4,4,0.00%
+Archaeodaemon,4,3,5.00%
+Boco (Wiegraf’s Chocobo),3,3,0.00%
+Construct 7,3,6,33.00%
+Dark Dragon (Bredmondt),5,3,5.00%
+Holy Dragon,5,3,5.00%
+Reaver,4,3,5.00%
+Ultima Demon,5,2,10.00%
+Cuchulainn,4,4,12.00%
+Belias,5,5,18.00%
+Zalera,5,4,24.00%
+Adrammelech,5,4,19.00%
+Hashmal,5,4,12.00%
+Ultima (1st Form),5,4,11.00%
+Ultima (2nd Form),8,5,10.00%
+Elidibus,4,3,3.00%
