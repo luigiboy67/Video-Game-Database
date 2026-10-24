@@ -163,82 +163,83 @@ Odin,???,73120,???,???,???,???,???,???,???
 Omega,159,15,15,15,15,19,4,L,7
 Omega Bane,166,15,15,15,15,17,4,L,7
 Omega God,992,15,19,20,15,21,4,XL,N/A
-Paleberry King,,,,,,,,,
-Palebery,,,,,,,,,
-Phoenix,,,,,,,,,
-Ponini,,,,,,,,,
-Princes Goblin,,,,,,,,,
-Princess Goblin,,,,,,,,,
-Quacho,,,,,,,,,
-Quacho Queen,,,,,,,,,
-Quacho Queen,,,,,,,,,
-Quanchacho,,,,,,,,,
-Rairamuh,,,,,,,,,
-Ramewl,,,,,,,,,
-Ramewl,,,,,,,,,
-Ramuh,,,,,,,,,
-Ramuh ,,,,,,,,,
-Reaver Mu,,,,,,,,,
-Red Bonnetberry,,,,,,,,,
-Red Cap,,,,,,,,,
-Red Captain,,,,,,,,,
-Red Dragon,,,,,,,,,
-Right Claw,,,,,,,,,
-Sand Worm,,,,,,,,,
-Sandicore,,,,,,,,,
-Sea Serpent,,,,,,,,,
-Sea Snake,,,,,,,,,
-Sea Worm,,,,,,,,,
-Searcher,,,,,,,,,
-Security Eye,,,,,,,,,
-Serafie,,,,,,,,,
-Sharqual,,,,,,,,,
-Shiva,,,,,,,,,
-Shiva,,,,,,,,,
-Shiva-Ixion,,,,,,,,,
-Shivalry,,,,,,,,,
-Shivalry,,,,,,,,,
-Shivver,,,,,,,,,
-Shivverina,,,,,,,,,
-Siren,,,,,,,,,
-Sistertaur,,,,,,,,,
-Skull Eater,,,,,,,,,
-Sky Dragon,,,,,,,,,
-Slydra,,,,,,,,,
-Spark Dragon,,,,,,,,,
-Sphinx,,,,,,,,,
-Squidraken,,,,,,,,,
-Supraultima Weapon,,,,,,,,,
-Syldra,,,,,,,,,
-Sylph,,,,,,,,,
-Sylphine,,,,,,,,,
-Tama,,,,,,,,,
-Tamamohime,,,,,,,,,
-Tiamat,,,,,,,,,
-Titan ,,,,,,,,,
-Tonberry,,,,,,,,,
-Tonberry King,,,,,,,,,
-Topaz Carbuncle,,,,,,,,,
-Trihyde,,,,,,,,,
-Ultima Weapon,,,,,,,,,
-Ultros,,,,,,,,,
-Ultros,,,,,,,,,
-Undead Princess,,,,,,,,,
-Undead Princess,,,,,,,,,
-Unicorn,,,,,,,,,
-Vampire,,,,,,,,,
-Vampire Prime,,,,,,,,,
-Voultr,,,,,,,,,
-War Machine,,,,,,,,,
-Water Golem,,,,,,,,,
-Water Toad,,,,,,,,,
-Weeglee,,,,,,,,,
-Werebat,,,,,,,,,
-White Chocobo,,,,,,,,,
-White Nakk,,,,,,,,,
-Wind Toad,,,,,,,,,
-XG,,,,,,,,,
-Yojimbo,,,,,,,,,
-Yurugu,,,,,,,,,
-Zaphr,,,,,,,,,
-Zapt,,,,,,,,,
+Paleberry King,172,12,13,16,16,21,4,L,6
+Palebery,168,12,12,17,16,23,4,M,4
+Phoenix,151,13,21,16,15,25,4,L,5
+Ponini,134,15,13,14,15,26,4,S,1
+Princess Goblin,147,15,15,15,14,25,4,M,4
+Princess Goblin (Boss),???,3610,???,???,???,???,???,???,???
+Quacho,166,12,13,12,17,28,4,S,2
+Quacho Queen,165,13,13,12,17,26,4,L,5
+Quacho Queen (Boss),???,4467,???,???,???,???,???,???,???
+Quanchacho,125,16,13,13,17,26,4,S,2
+Rairamuh,152,14,14,14,14,25,4,L,5
+Ramewl,144,13,17,15,12,27,4,L,7
+Ramewl,???,17790,???,???,???,???,???,???,???
+Ramuh,139,12,71,14,15,25,4,L,6
+Ramuh (Boss),???,2262,???,???,???,???,???,???,???
+Reaver Mu,142,15,15,15,13,25,4,S,3
+Red Bonnetberry,116,13,14,15,15,23,4,S,2
+Red Cap,148,15,12,14,14,28,4,M,4
+Red Captain,146,15,15,14,12,27,4,M,5
+Red Dragon,170,16,13,16,13,21,4,L,6
+Right Claw,145,17,13,17,14,21,4,L,6
+Sand Worm,162,14,14,17,18,15,4,L,7
+Sandicore,167,11,11,17,17,25,4,S,3
+Sea Serpent,129,12,16,16,17,22,4,M,4
+Sea Snake,132,12,16,16,17,22,4,M,4
+Sea Worm,162,15,15,15,14,22,4,L,7
+Searcher,104,14,17,12,15,32,4,S,2
+Security Eye,128,13,16,12,17,26,4,S,2
+Serafie,136,13,14,13,16,28,4,S,2
+Sharqual,125,16,13,13,17,27,4,M,4
+Shiva,161,12,16,14,14,23,4,L,5
+Shiva (Boss),???,2828,???,???,???,???,???,???,???
+Shiva-Ixion,156,13,16,14,14,25,4,L,8
+Shivalry,160,16,16,15,12,21,4,L,5
+Shivalry (Boss),???,25210,???,???,???,???,???,???,???
+Shivver,164,14,14,14,14,23,4,L,5
+Shivverina,153,12,16,14,14,25,4,M,3
+Siren,147,14,13,13,16,26,4,L,5
+Sistertaur,156,16,12,16,15,21,4,M,5
+Skull Eater,69,16,13,20,20,21,4,M,5
+Sky Dragon,155,15,13,15,13,21,4,L,6
+Slydra (Boss),150,14,17,14,15,20,4,L,7
+Spark Dragon,129,14,17,17,14,23,4,M,3
+Sphinx,182,12,14,12,16,25,4,L,7
+Squidraken,135,13,17,14,16,23,4,M,4
+Supraultima Weapon,???,???,???,???,???,???,4,L,???
+Syldra,???,???,???,???,???,???,4,L,???
+Sylph,134,14,12,13,18,27,4,S,1
+Sylphine,150,13,14,13,16,26,4,M,3
+Tama,143,14,14,14,14,25,4,S,2
+Tamamohime,155,15,15,15,14,23,4,L,6
+Tiamat,152,17,17,14,14,20,4,L,7
+Titan ,158,15,16,15,15,19,4,L,7
+Tonberry,138,13,13,17,17,23,4,M,4
+Tonberry King,119,13,14,17,17,24,4,L,6
+Topaz Carbuncle,120,12,18,15,19,20,4,M,5
+Trihyde,147,17,17,12,14,22,4,L,7
+Ultima Weapon,1090,18,17,13,16,25,4,XL,N/A
+Ultros,177,13,13,17,14,21,4,L,6
+Ultros,???,26280,???,???,???,???,???,???,???
+Undead Princess,143,15,16,13,17,20,4,L,5
+Undead Princess (Boss),???,4420,???,???,???,???,???,???,???
+Unicorn,124,16,13,13,17,27,4,M,5
+Valefor,149,14,14,14,14,27,4,L,5
+Vampire,119,16,13,16,17,22,4,M,4
+Vampire Prime,129,15,15,15,15,24,4,L,5
+Voultr,146,14,14,13,14,26,4,M,3
+War Machine,147,13,16,12,17,26,4,L,7
+Water Golem,118,17,14,17,14,24,4,S,3
+Water Toad,138,14,14,13,16,25,4,S,3
+Weeglee,155,14,14,14,14,24,4,S,1
+Werebat,103,14,17,13,14,31,4,S,1
+White Chocobo,135,15,13,14,13,25,4,M,3
+White Nakk,124,17,15,13,12,29,4,S,3
+Wind Toad,126,14,14,14,17,24,4,S,3
+XG,994,19,16,15,16,26,4,XL,N/A
+Yojimbo,148,17,14,15,15,19,4,L,5
+Yurugu,156,14,14,14,14,24,4,S,2
+Zaphr,126,12,17,15,14,26,4,M,4
+Zapt,124,12,17,15,15,28,4,S,2
